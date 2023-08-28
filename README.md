@@ -1,1 +1,3 @@
 # TSIA202--Telecom-Paris
+
+A time series is the modeling of a sequence of numerical values by a sequence of statistically dependent random variables. This module introduces the concepts inherent in second-order properties: autocovariance, density and spectral measurement, linear prediction, innovation processes, as well as the most commonly used linear models: AR, MA and ARMA processes. The second part of the course covers spectral analysis techniques, with applications in fields as varied as sound analysis/synthesis, modal analysis of mechanical vibration, seismology and radar and sonar signal processing.
